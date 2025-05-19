@@ -96,7 +96,7 @@ class Program
     },
     {
       "position": "توسعه دهنده Back-End",
-      "company": "شرکت نرم‌افزاری بوباتک",
+      "company": "شرکت نرم‌افزاری پویاتک",
       "location": "تهران",
       "duration": "فروردین 1403 - اکنون",
       "responsibilities": [
