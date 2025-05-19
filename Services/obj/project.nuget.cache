@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GmNfI0ZKfXs=",
+  "success": true,
+  "projectFilePath": "D:\\New folder (6)\\Solution1\\Services\\Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yaasg\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "C:\\Users\\yaasg\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\yaasg\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

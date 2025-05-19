@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zV+ko00B/EiVx+3G/pTXkXPZ1D84p9W0001zclxjQcs=",
+  "Source": "WeatherWiseAPI",
+  "BasePath": "_content/WeatherWiseAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

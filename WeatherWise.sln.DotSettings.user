@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=27c165c2_002D0631_002D40fb_002Db28d_002D670e4d11af01/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetCityEnvironmentalInfo_InvalidCity_ReturnsNotFound" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::5486472A-D6BC-4625-86D8-845C3A80D7D5::net8.0::TestWeatherWise.FailCase.GetCityEnvironmentalInfo_InvalidCity_ReturnsNotFound&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6e18112c_002Dbcdb_002D454e_002Db0e2_002D5981464ffcc9/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetCityEnvironmentalInfo_ReturnsOkResult_WithEnvironmentalData" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="D:\New folder (6)\Solution1\TestWeatherWise" Presentation="&amp;lt;Test&amp;gt;\&amp;lt;TestWeatherWise&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
